@@ -1,0 +1,7 @@
+strings flag > flag.asm
+flag.asm first line was upx. its a upx packer binary
+use upx -d flag first
+do the strings flag > flag.asm
+search for string strcpy
+the last understandable string before it was the
+look for flag.
